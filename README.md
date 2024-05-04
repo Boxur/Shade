@@ -1,3 +1,3 @@
-# Shade test
+# Shade
 
 Shade game engine
